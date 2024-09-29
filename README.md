@@ -14,14 +14,14 @@ I'm a passionate **Front-End Developer** with a love for building dynamic and en
 
 ## 🛠️ Technologies & Tools
 
-### 🌐 Languages
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
-### 🖼️ Frontend Frameworks
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+### 🖥️ Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 
@@ -30,9 +30,11 @@ I'm a passionate **Front-End Developer** with a love for building dynamic and en
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 
-### ⚙️ Development Tools
+### 🗂️ Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+### ⚙️ Other Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge)
@@ -40,9 +42,11 @@ I'm a passionate **Front-End Developer** with a love for building dynamic and en
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black&style=for-the-badge)
 
 ### 🚀 Currently Learning
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white&style=for-the-badge)
+
 
 
 ---

@@ -56,7 +56,7 @@ I'm a passionate **Front-End Developer** with a love for building dynamic and en
 ### [🏡 MyPortfolio](https://mitchumitchu.ct8.pl/)
 A personal portfolio website built with **React** and **styled-components**, showcasing my work and skills in a sleek and modern design.
 
-### [☀️ WeatherNow](https://michalmonsterr.github.io/weather-app/)
+### [☁️ WeatherNow](https://michalmonsterr.github.io/weather-app/)
 A weather application built with React and styled-components, providing real-time weather updates and forecasts with a sleek and modern design.
 
 ---
@@ -64,7 +64,7 @@ A weather application built with React and styled-components, providing real-tim
 ## 🔧 What I'm Working On
 
 - 🛒 Building a dynamic **e-commerce store** using **React.js** and modern web technologies.
-- ☁️ Developing a user-friendly **weather application** that fetches real-time data from APIs.
+- 🎵 A local music player application built with React and styled-components, providing an immersive listening experience with personalized playlists and a sleek, modern interface.
 
 ---
 

@@ -59,6 +59,9 @@ A personal portfolio website built with **React** and **styled-components**, sho
 ### [☁️ WeatherNow](https://michalmonsterr.github.io/weather-app/)
 A weather application built with React and styled-components, providing real-time weather updates and forecasts with a sleek and modern design.
 
+### [🥖 Stargardzkie Zapieksy](https://michalmonsterr.github.io/zapieksy)
+A web application for a local eatery specializing in baguette sandwiches, designed with React and styled-components. This sleek and modern platform showcases our delicious offerings and allows customers to explore our menu and learn about our story and values.
+
 ### [▶️YouTube My Lua Projects](https://youtube.com/playlist?list=PLaeA43sGUkK_OEJfWPnXz2alPkqPuyeOW&si=-LVJBZMbXHKU4kC8)
 My projects in Lua made for MTA:SA
 

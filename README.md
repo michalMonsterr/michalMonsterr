@@ -62,6 +62,9 @@ A weather application built with React and styled-components, providing real-tim
 ### [🥖 Stargardzkie Zapieksy](https://michalmonsterr.github.io/zapieksy)
 A web application for a local eatery specializing in baguette sandwiches, designed with React and styled-components. This sleek and modern platform showcases our delicious offerings and allows customers to explore our menu and learn about our story and values.
 
+### [🖥️ Employee management](https://github.com/michalMonsterr/recruitment-task)
+An application used to manage employees in a company. It has functions such as adding, deleting and editing an employee. The application is still under development.
+
 ### [▶️YouTube My Lua Projects](https://youtube.com/playlist?list=PLaeA43sGUkK_OEJfWPnXz2alPkqPuyeOW&si=-LVJBZMbXHKU4kC8)
 My projects in Lua made for MTA:SA
 

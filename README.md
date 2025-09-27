@@ -65,7 +65,7 @@ A web application for a local eatery specializing in baguette sandwiches, design
 ### [🖥️ Employee management](https://github.com/michalMonsterr/recruitment-task)
 An application used to manage employees in a company. It has functions such as adding, deleting and editing an employee. The application is still under development.
 
-### [🚗 Car Workshop system]([https://github.com/michalMonsterr/car-workshop](https://michalmonsterr.github.io/car-workshop/))
+### [🚗 Car Workshop system](https://michalmonsterr.github.io/car-workshop/)
 **Car Workshop** is a web app that simulates managing a car repair shop, allowing users to handle repair orders, statuses, and costs with a simple React-based interface.
 
 ### [▶️YouTube My Lua Projects](https://youtube.com/playlist?list=PLaeA43sGUkK_OEJfWPnXz2alPkqPuyeOW&si=-LVJBZMbXHKU4kC8)
